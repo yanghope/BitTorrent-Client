@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/classes/cs60-S13/!svn/ver/3364/Team2/DartTorrent/src/util
+END
+bencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/classes/cs60-S13/!svn/ver/2518/Team2/DartTorrent/src/util/bencode.c
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/classes/cs60-S13/!svn/ver/2518/Team2/DartTorrent/src/util/sha1.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/classes/cs60-S13/!svn/ver/2682/Team2/DartTorrent/src/util/util.h
+END
+jhl_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/classes/cs60-S13/!svn/ver/3380/Team2/DartTorrent/src/util/jhl_lib.c
+END
+bencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/classes/cs60-S13/!svn/ver/2518/Team2/DartTorrent/src/util/bencode.h
+END
+btdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/classes/cs60-S13/!svn/ver/3371/Team2/DartTorrent/src/util/btdata.h
+END
+queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/classes/cs60-S13/!svn/ver/2535/Team2/DartTorrent/src/util/queue.c
+END
+queuetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/classes/cs60-S13/!svn/ver/2518/Team2/DartTorrent/src/util/queuetest.c
+END
+jhl_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/classes/cs60-S13/!svn/ver/3380/Team2/DartTorrent/src/util/jhl_lib.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/classes/cs60-S13/!svn/ver/2535/Team2/DartTorrent/src/util/queue.h
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/classes/cs60-S13/!svn/ver/2518/Team2/DartTorrent/src/util/sha1.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/classes/cs60-S13/!svn/ver/3364/Team2/DartTorrent/src/util/util.c
+END

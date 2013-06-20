@@ -1,0 +1,15 @@
+Source Descriptions:
+
+  bencode.{h/c} - Helper functions to decode bencoded data
+  btdata.h      - Useful data structures and global variables
+  darttorrent.c - main loop for darttorrent client
+  make_tracker_request.c - Function(s) to create a message to send to the
+                           tracker
+  parse_announce_url.c - Helper function to get the hostname of the tracker
+  parsetorrentfile.c - Functions to extract data from a torrent file
+  process_tracker_response.c - Extract data from a tracker response
+  sha1.{h/c} - Implements sha1 hash
+  shatest.c - Example of how to use sha1 functions
+  shutdown.c - Basic signal handler to handle ctrl-c
+  util.{h/c} - Functions to do various things, some descriptions about which
+               functions do what in util.h
