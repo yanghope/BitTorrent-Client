@@ -1,6 +1,7 @@
 CC=gcc
 CFLAGS=-Wall -pedantic -std=c99 -g -D_GNU_SOURCE
-LIBS=-lpthread -lcrypto
+//在unbuntu12.04的机器上，-lpthread选项不能正常编译，改为-pthread则能正常编译
+LIBS=-pthread -lcrypto
 TARGET=darttorrent
 
 SOURCES=src/util/bencode.c \
